@@ -1,0 +1,12 @@
+{
+  "metrics": {
+    "wins": 1,
+    "ties": 1,
+    "losses": 0,
+    "winRate": 1
+  },
+  "row": {
+    "id": "Q1",
+    "winner": "B"
+  }
+}

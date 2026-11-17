@@ -1,0 +1,21 @@
+{
+  "title": "模型双盲投票汇总验收样本",
+  "settings": {
+    "candidate": "B",
+    "baseline": "A"
+  },
+  "rows": [
+    {
+      "id": "Q1",
+      "left": "A",
+      "right": "B",
+      "pick": "right"
+    },
+    {
+      "id": "Q2",
+      "left": "B",
+      "right": "A",
+      "pick": "tie"
+    }
+  ]
+}

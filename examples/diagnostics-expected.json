@@ -1,0 +1,8 @@
+{
+  "metrics": {
+    "decisiveVotes": 1,
+    "tieFraction": 0.5,
+    "exactP": 1
+  },
+  "tolerance": 1e-10
+}

@@ -1,0 +1,8 @@
+{
+  "row": 0,
+  "id": "Q1",
+  "field": "pick",
+  "before": "right",
+  "after": "left",
+  "reason": "修正投票方向"
+}

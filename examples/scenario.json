@@ -1,0 +1,12 @@
+{
+  "name": "交换候选与基准",
+  "settings": {
+    "candidate": "A",
+    "baseline": "B"
+  },
+  "checkpoint": {
+    "metric": "wins",
+    "expected": 0,
+    "absoluteTolerance": 1e-10
+  }
+}
